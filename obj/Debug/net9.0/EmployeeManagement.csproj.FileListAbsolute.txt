@@ -169,3 +169,4 @@ c:\Users\User\EmployeeManagement\bin\Debug\net9.0\runtimes\win-x86\native\e_sqli
 c:\Users\User\EmployeeManagement\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 c:\Users\User\EmployeeManagement\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 c:\Users\User\EmployeeManagement\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.sourcelink.json
